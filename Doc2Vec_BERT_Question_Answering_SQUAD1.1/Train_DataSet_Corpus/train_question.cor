@@ -1,0 +1,36 @@
+How many default threads are supported for Single Inbox ?
+What is the total thread count in Single Inbox ?
+How many default threads are available in single inbox ?
+What is the supported thread count in inbox ?
+Tell me the single inbox thread count ?
+How many threads are in single inbox ?
+How many default threads are there in SIB ?
+How many default threads are supported there in single inbox ?
+Total count of single inbox threads ?
+How many inbox threads are in cisco unity connection ?
+When should we not change the number of connections for Exchange or Office365 server ?
+What the conditions under which we should change the number of connections for Exchange or Office365 server?
+What to do when we are facing synchronization delays for Exchange or Office365 server?
+What are the maximum number of connections supported for Exchange or Office365 server?
+What is maximum value we can configure for connections for Exchange or Office365 server ?
+Can we reduce the number of connections to fewer than four for Exchange or Office365 server?
+Can we configure no. of connections to fewer than four for Exchange or Office365 server?
+Does Cisco Unity Connection supports the troubleshooting for the load balancer issues ?
+Whom to contact when we have issues related to load balancer?
+Who will support the troubleshooting for load balancer issues ?
+How to form a well connected network ?
+What is the well connected network for unity connection ?
+What is referred to as a unity connection site?
+Upto maximum of how many servers or cluster we can join to form well connected network ?
+How many servers or clusters can be joined to form unity connection site ?
+Is the unity connection site and well connected network are same ?
+What is referred to as location in a unity connection site ?
+What does location uses to exchange directory synchronization information and messages directly with every other location?
+How is the directory synchronization information and messages are exchanged with every other location?
+Does each location uses SMTP to to exchange directory synchronization information and messages directly with every other location?
+What is an intersite link ?
+How many maximum locations you can scale in the intersite link from each location of Unity Connection site ?
+What else you can also use intersite link for ?
+What is cisco voicemail organization in Unity Connection ?
+What act as a gateway while creating an ntersite link for Unity Connection site?
+How does directory synchronization communications happens between two site gateways ?
